@@ -1,4 +1,4 @@
-# 🇺🇸 USA Stock Symbols Scraper
+# USA Stock Symbols Scraper
 
 A lightweight Python script to fetch **all stock ticker symbols** listed on major **U.S. exchanges** using TradingView's screener API.
 
